@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/luckycat-R/static/css/main.ea5eab60.chunk.css",
+    "main.js": "/luckycat-R/static/js/main.b0027c66.chunk.js",
+    "main.js.map": "/luckycat-R/static/js/main.b0027c66.chunk.js.map",
+    "runtime-main.js": "/luckycat-R/static/js/runtime-main.3f8e1def.js",
+    "runtime-main.js.map": "/luckycat-R/static/js/runtime-main.3f8e1def.js.map",
+    "static/js/2.2e32f10a.chunk.js": "/luckycat-R/static/js/2.2e32f10a.chunk.js",
+    "static/js/2.2e32f10a.chunk.js.map": "/luckycat-R/static/js/2.2e32f10a.chunk.js.map",
+    "index.html": "/luckycat-R/index.html",
+    "static/css/main.ea5eab60.chunk.css.map": "/luckycat-R/static/css/main.ea5eab60.chunk.css.map",
+    "static/js/2.2e32f10a.chunk.js.LICENSE.txt": "/luckycat-R/static/js/2.2e32f10a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f8e1def.js",
+    "static/js/2.2e32f10a.chunk.js",
+    "static/css/main.ea5eab60.chunk.css",
+    "static/js/main.b0027c66.chunk.js"
+  ]
+}
